@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Devansh</h1>
+<h3 align="center">Robotics | IoT | Embedded Systems Enthusiast</h3>
 
-<!--
-**Devansh01-eng/Devansh01-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Engineering Student  
+- 🤖 Focused on Robotics, IoT & Embedded Systems  
+- 🔧 Building real-world projects using Arduino & Python  
+- 🧠 Currently exploring ROS, OpenCV (Python), and Fusion 360  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/ROS-black?style=for-the-badge&logo=ros"/>
+  <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/Fusion%20360-orange?style=for-the-badge&logo=autodesk"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-grey?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Hand Gesture Home Automation
+- Control appliances using hand gestures (contactless system)  
+- Completed project  
+
+### 🌡️ Smart Temperature Monitor (DS18B20)
+- Real-time temperature monitoring using Arduino  
+
+### 🤖 Robotic Arm
+- Servo-based robotic arm  
+- Currently in development  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devansh01-eng&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh01-eng&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Current Focus
+- Robotics & IoT Projects  
+- Developing a servo-based Robotic Arm  
+- Completed a Hand Gesture-based Home Automation system  
+
+---
+
+## 📫 Contact Me
+- 📧 smartdevansh01@gmail.com  
+
+---
+
+## ⚡ Motto
+> Building real things > just learning theory
