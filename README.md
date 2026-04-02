@@ -29,8 +29,6 @@
 - Control appliances using hand gestures (contactless system)  
 - Completed project  
 
-### 🌡️ Smart Temperature Monitor (DS18B20)
-- Real-time temperature monitoring using Arduino  
 
 ### 🤖 Robotic Arm
 - Servo-based robotic arm  
@@ -38,13 +36,6 @@
 
 ---
 
-## 📊 GitHub Status
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devansh-labs&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-labs&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
 
 ## 🧠 Current Focus
 - Robotics & IoT Projects  
