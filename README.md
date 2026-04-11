@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-
 <h3 align="center">Robotics | IoT | Embedded Systems Enthusiast</h3>
 
 ---
