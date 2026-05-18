@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 smartdevansh01@gmail.com  
-
+- 📸 Instagram: https://instagram.com/devansh._upadhyay
+- 📧 Email: smartdevansh01@gmail.com  
 ---
 
 ## ⚡ Motto
